@@ -1,4 +1,6 @@
 RENCANA KONTEN
 
 -VID PRAM
+ * vid gaje
+ * vidividi
 -VLOG PRAM
